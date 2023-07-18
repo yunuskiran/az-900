@@ -1,4 +1,5 @@
 ### Resource Groups
+All resources belong to a resource group. It isn't a resource, but helps structure your Azure architecture.
 
 ## Resource Groups Fact
   - Each resource can only exist in a single resource group.
