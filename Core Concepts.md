@@ -1,4 +1,4 @@
-### Core Concepts
+## Core Concepts
 
 - High Availability means systems are always available - even automatically.
 
